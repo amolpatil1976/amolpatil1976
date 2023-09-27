@@ -4,7 +4,7 @@
 
 -- 🌱 I’m currently learning Artificial intelligence(AI) and Data Science(DS)     
 
--- 💞️ I’m looking forward to collaborate on multiagent reinforcement learning methods for analysis of multi-agent systems, below is my working email    
+-- 💞️ I’m looking forward to solve real worls business problems using AI/ML and data science, below is my working email    
 
 -- 📫 How to reach me:agpatil@acpce.ac.in 
 
